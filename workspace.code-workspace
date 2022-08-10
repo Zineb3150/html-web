@@ -1,3 +1,37 @@
-{
-	"folders": []
-}
+<!doctype>
+<html>
+
+<head>
+ <title>tp2 technologie web</title> 
+</head>
+<body>
+<h1>Mon blog de la semaine</h1>
+<h2>Menu</h2>
+<ul>
+ <li> <a href="wwwjghhj">semaine 1</li>
+ <li> <a href="www.jsfh">semaine 2</li>
+ <li> <a href="wwwgkjk">semaine 3</li>
+</ul>
+<div <a id="RDV"></a>
+    <h2>rendez vous de travail</h2>
+    <p>le novembre 2018 <br> aujourd'hui je vais allez a Casablanca par le train<br> j'ai rencontre des clients pour signer quelques contrats
+    
+        <h3> le magazinage</h3>
+        <p> le 3 novembre 2018 <br> aujourd'hui j'ai visite Mali <br> les soldes actuels ne sont pas assez interesses
+        </p>
+        <h4>visiter mes parents</h4>
+        <p> le 5 novmbre 2018<br> aujourd'hui j'ai visite mes parents <br> nous avons eu un tres bon dinet
+        </p>
+        <h4> derniers articles</h4>
+        <ul>
+            <li <a href="#RDV"> rendez vous de travail</a</LI>
+            <li<a href="#MGS">le magazinage!!</a</li>
+            <li> <a href="#PRT"> visiter mes parents </a></li>
+
+            <p> me contacter:<a href="www.hdks.com">mail@mail.edu</a></p>
+                
+        </ul>
+    </p>
+
+</body>
+</html>
