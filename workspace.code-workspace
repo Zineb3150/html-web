@@ -24,13 +24,19 @@
         </p>
         <h4> derniers articles</h4>
         <ul>
-            <li <a href="#RDV"> rendez vous de travail</a</LI>
-            <li<a href="#MGS">le magazinage!!</a</li>
-            <li> <a href="#PRT"> visiter mes parents </a></li>
+            <li <a href="#RDV"> rendez vous de travail</a>  </Li>
+            <li<a href="#MGS">le magazinage!!</a> </il>
+            <li> <a href="#PRT"> visiter mes parents </a>  </li>
+            </ul>
 
             <p> me contacter:<a href="www.hdks.com">mail@mail.edu</a></p>
+            
+            
+            
+            
+            
                 
-        </ul>
+        
     </p>
 
 </body>
